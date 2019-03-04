@@ -1,4 +1,49 @@
-this is a resume
+         
+Alexander Oh
+3688 South Court, Palo Alto, CA 94306
+oh.al@husky.neu.edu
+(650) 815-8771
 
-Alex Oh
+Education
+Northeastern University, Boston, MA	May 2020
+Candidate for Bachelor of Science in Mechanical Engineering, Minor in Jazz Trumpet Performance
+GPA: 3.828
+Honors: Dean’s List (4/4 semesters), NU Pi Tau Sigma
+Relevant Coursework: Mechanical Engineering Design, Thermal Systems Analysis, Mechanical Engineering Computation, Fluid Mechanics, Dynamics and Vibrations, Computer Aided Design and Manufacturing, Electrical Engineering, Material Science, Differential Equations and Linear Algebra, Calculus I-III
+Activities: Northeastern University Jazz Ensemble, Northeastern University Fusion Ensemble, NEU Taekwondo Club
+
+Henry M. Gunn High School, Palo Alto, CA		
+Activities: Boy Scouts (Eagle Scout), Taekwondo (3rd Dan Black Belt)	May 2015
+
+Technical Skills
+Applications: Siemens NX 11, SOLIDWORKS 2017 (Certified Solidworks Associate), SOLIDWORKS PDM, Autodesk Inventor, Autodesk Fusion 360, AutoCAD, MATLAB, Microsoft Office Suite
+Programming: C++, Java
+
+Engineering Experience
+=================================================================================================
+Bose Corporation, Framingham, MA
+Consumer Electronics Mechanical Engineering Co-op	January 2018 – June 2018
+o	Pushed exploration phase product to first physical prototyping build as member of wireless headphones team
+o	Designed test fixtures with NX 11 using iterative design process, considering DFX methodologies (DFM, DFA)
+o	Utilized makerspace while prototyping fixtures – made extensive use of machine shop, Form 2 SLA 3D-printer, Epilog laser cutter
+o	Performed mechanical, usability testing with cross-product eartip that influenced future design iterations
+o	Earned Bose Lean Enterprise Yellow Belt Certification
+Northeastern University Rehabilitation Games & Virtual Reality Laboratory, Boston, MA
+Project Assistant	September 2017 – Dec 2017
+o	Provided electromechanical support for Robots Encouraging Action in Children (REACH) system
+o	Performed hardware integration with a wireless robotic arm module coding with Arduino IDE
+Analogic Corporation, Peabody, MA
+Manufacturing Engineering Co-op	January 2017 – June 2017
+o	Assembled pre-production stage components prior to existence of procedures for flagship airport checkpoint security CT scanner and 1st generation medical CT scanner
+o	Prepared technical drawings with proper GD&T callouts using SOLIDWORKS 
+o	Developed and revised new manufacturing procedures that were implemented shortly after creation, considerably improving ease of construction and efficiency
+o	Trained engineering technicians to build newly designed subassemblies
+o	Updated Bills of Materials by filing ECO’s, allowing for improved ease of assembly 
+
+Projects
+o	Modeled a Bb trumpet with Autodesk Fusion 360 for “Design for Autodesk Challenge”
+o	Designed ergonomic fixture block that makes one-handed trumpet playing less physically taxing
+?	Worked with a local Boston trumpet player through multi-stage iterative design process
+o	In progress: “Electronic Valve Instrument” synthesizer design with a fellow mechanical engineering student
+?	Goal – design a playable synthesizer with ergonomic, easy-to-assemble design
 
