@@ -10,7 +10,7 @@ Education
 Northeastern University, Boston, MA                     May 2020
 Candidate for Bachelor of Science in Mechanical Engineering 
     Minor in Jazz Trumpet Performance
-GPA: 3.828
+GPA: 3.797
 Honors: Dean’s List (4/4 semesters), NU Pi Tau Sigma
 Activities: Northeastern University Jazz Ensemble, 
 Northeastern University Fusion Ensemble, NEU Taekwondo Club
@@ -18,11 +18,25 @@ Northeastern University Fusion Ensemble, NEU Taekwondo Club
 Technical Skills
 Applications: Siemens NX 11, SOLIDWORKS 2017 (Certified Solidworks 
 Associate), SOLIDWORKS PDM, Autodesk Inventor, Autodesk Fusion 360, 
-AutoCAD, MATLAB, Microsoft Office Suite
+AutoCAD, MATLAB
 
 =================================================================
 Engineering Experience
 =================================================================
+NASA Jet Propulsion Laboratory, Pasadena, CA
+Mechanical Engineering Co-op
+January 2019 - June 2019
+
+-Took ownership over design of ground support equipment to be 
+used in upcoming major test campaign for the Mars 2020 Rover 
+Sample Caching System (SCS)
+-Prepared drilling test samples for SCS test campaign
+-Organized process flow logistics surrounding SCS test campaign
+-Compiling a complete set of expectations for all SCS sensors and
+actuators to characterize healthy behavior in the system during
+testing
+
+
 Bose Corporation, Framingham, MA
 Consumer Electronics Mechanical Engineering Co-op	
 January 2018 – June 2018
@@ -63,8 +77,4 @@ Autodesk Challenge”
 playing less physically taxing
 -Worked with a local Boston trumpet player through multi-stage 
 iterative design process
--In progress: “Electronic Valve Instrument” synthesizer design 
-with a fellow mechanical engineering student
-    -Goal – design a playable synthesizer with ergonomic, 
-     easy-to-assemble design
 
